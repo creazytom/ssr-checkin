@@ -7,11 +7,11 @@
     "retry": 5,
     "domains": [
         {
-            "domain": "url",
+            "domain": "https://www.crabcloud.net/",
             "proxy": true,
             "param": {
-                "email": "email",
-                "passwd": "password"
+                "email": "icuv0271@gmail.com",
+                "passwd": "aff123456."
             }
         },
         {
